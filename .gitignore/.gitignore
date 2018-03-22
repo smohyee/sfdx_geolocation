@@ -1,0 +1,2 @@
+# ignore the .sfdx folder which contains temporary scratch org info
+.sfdx/
